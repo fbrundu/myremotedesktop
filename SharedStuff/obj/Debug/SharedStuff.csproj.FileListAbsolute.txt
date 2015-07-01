@@ -1,0 +1,5 @@
+C:\Documents and Settings\Francesco\My Documents\Dropbox\poli\bi\not\pds\BetaProject\SharedStuff\bin\Debug\SharedStuff.dll
+C:\Documents and Settings\Francesco\My Documents\Dropbox\poli\bi\not\pds\BetaProject\SharedStuff\bin\Debug\SharedStuff.pdb
+C:\Documents and Settings\Francesco\My Documents\Dropbox\poli\bi\not\pds\BetaProject\SharedStuff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Francesco\My Documents\Dropbox\poli\bi\not\pds\BetaProject\SharedStuff\obj\Debug\SharedStuff.dll
+C:\Documents and Settings\Francesco\My Documents\Dropbox\poli\bi\not\pds\BetaProject\SharedStuff\obj\Debug\SharedStuff.pdb
